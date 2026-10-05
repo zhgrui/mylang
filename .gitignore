@@ -1,0 +1,45 @@
+# Local language scratch files
+/ast.code
+/main.code
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+.tox/
+.nox/
+
+# Build and packaging output
+/build/
+/dist/
+*.egg-info/
+
+# Test coverage
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Editor and operating-system artifacts
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+._*
+Thumbs.db
